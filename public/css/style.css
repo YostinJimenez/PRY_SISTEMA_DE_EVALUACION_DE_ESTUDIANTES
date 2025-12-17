@@ -1,0 +1,4 @@
+span:hover{
+    box-shadow: -3px 3px 5px grey;
+    transition: all 0.3s ease-in-out;
+}
